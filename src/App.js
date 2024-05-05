@@ -8,6 +8,11 @@ function App() {
   
 
 
+   function codeRed(){
+    console.log("We are operating in codeRed , Be carefull")
+   }
+
+
   return (
     <div className="App">
     
